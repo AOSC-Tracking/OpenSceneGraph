@@ -13,6 +13,7 @@
 #include <osgDB/FileNameUtils>
 #include <osgDB/FileUtils>
 
+#include <ImfInt64.h>
 #include <ImfRgbaFile.h>
 #include <ImfIO.h>
 #include <ImfArray.h>
